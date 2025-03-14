@@ -2,7 +2,6 @@
   <h1>🎯 Number Guessing Game </h1>
 </div>
 
-## 📝 Game Rules
 
 # 1️⃣ User Input Range
 
